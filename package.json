@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "javascript-obfuscator": "^3.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}

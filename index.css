@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+}
+.centrado{ 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:80vh;
+}
+.color{
+    width:10rem;
+    height:10rem;
+    background-color: red;
+    border: 1px solid #000;
+}
